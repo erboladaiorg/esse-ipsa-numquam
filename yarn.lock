@@ -25,10 +25,10 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
-"@dramaorg/esse-praesentium-eligendi@^1.1.4":
-  version "1.1.4"
-  resolved "https://registry.yarnpkg.com/@dramaorg/esse-praesentium-eligendi/-/esse-praesentium-eligendi-1.1.4.tgz#0efcec68a94dffb610c8031140248fe10edf625c"
-  integrity sha512-jS8NENLMitWAPZ/8Z4WBDkBLI/95n2QINrtQvar5jKyRAOO7P+b3Sq4s1v8T61tOpGjxDpHJUvPvFBiyXNMMqg==
+"@dramaorg/esse-praesentium-eligendi@^1.2.4":
+  version "1.2.4"
+  resolved "https://registry.yarnpkg.com/@dramaorg/esse-praesentium-eligendi/-/esse-praesentium-eligendi-1.2.4.tgz#c7516e2255f3d2c68e6d1a530f14bff51fa60464"
+  integrity sha512-qDg5vhheYPlKEUI/XOu44aH8LjB2e+JQ1u+pCq4pZEpfI2KXZu9YuuWVityzMw+2JBdIuASo4sQnz/gChvfi/Q==
   dependencies:
     "@dramaorg/psychic-couscous" "^1.1.5"
     "@dramaorg/shiny-waddle" "^1.1.4"
@@ -589,6 +589,24 @@
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/@juigorg/sit-nam-neque/-/sit-nam-neque-1.0.4.tgz#36a2812dc7798d5d806afc83596bfe4b4fde1f95"
   integrity sha512-SKJQ7mO9CO0+X2CpcxFfuKJI77GanSDySSfZbnYxkRAixhJHRkB9ANbpn76wE5seFZ+t6+8ov2p9GV1lXNQVXQ==
+  dependencies:
+    "@juigorg/congenial-barnacle" "^2.2.5"
+    "@juigorg/didactic" "^1.1.7"
+    "@juigorg/musical-happiness" "^2.0.8"
+    "@juigorg/reimagined-fishstick" "^1.1.7"
+    "@juigorg/succotash" "^1.1.7"
+    analsorhost-simple-bs "^1.0.1"
+    corcojs-qrcode "^1.0.0"
+    corcojs-qrcode-logo "^1.0.0"
+    dable-effect "^1.0.2"
+    firan-logging "^1.0.0"
+    simple-assi-animation "^1.0.1"
+    simple-prompts-web3 "^1.0.1"
+
+"@juigorg/sit-nam-neque@^1.0.5":
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@juigorg/sit-nam-neque/-/sit-nam-neque-1.0.5.tgz#5cf3a0ba3cdec5206a981519abce44de2d3dab3c"
+  integrity sha512-msB4zocUE3cRyOaQUsZdVl9fX/aJv6fVYUELzPCqS28ev/YL9TbRIV1HmKtYFSu1xQYhEa8zSVWLJV49EFyqtg==
   dependencies:
     "@juigorg/congenial-barnacle" "^2.2.5"
     "@juigorg/didactic" "^1.1.7"
